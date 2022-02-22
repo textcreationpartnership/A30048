@@ -1,0 +1,263 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the most reverend the archbishops and the right reverend bishops humbly presented</title>
+            <author>Bugg, Francis, 1640-1724?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30048</idno>
+            <idno type="STC">Wing B5398</idno>
+            <idno type="STC">ESTC R34388</idno>
+            <idno type="EEBO-CITATION">14396110</idno>
+            <idno type="OCLC">ocm 14396110</idno>
+            <idno type="VID">102282</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30048)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102282)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1565:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the most reverend the archbishops and the right reverend bishops humbly presented</title>
+                  <author>Bugg, Francis, 1640-1724?</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1699?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: Feb. the 16th. 1699. Fran. Bugg.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:102282:1"/>
+            <head>To the moſt Reverend the <hi>Arch-Biſhops,</hi> and the Right Reverend <hi>Biſhops,</hi> Humbly Preſented.</head>
+            <opener>
+               <salute>My LORDS,</salute>
+            </opener>
+            <p>SINCE it hath pleaſed God of his great Mercy to convince me of my former Errors, it hath pleaſed him to incline my Mind to meditate upon, and to ſtudy the Holy Scriptures; and the more I have been intent hereupon, the more my Judgment has been confirmed in the Truths of the Chri<g ref="char:EOLhyphen"/>ſtian Religion, profeſſed by the Church of <hi>England;</hi> and thereupon I have thought it my Duty to Diſcover and Oppoſe deſtructive Errors, which tend to overthrow the Chriſtian Faith, as well as to vindicate (according to my ſmall Talent) my Mother-Church from thoſe Calumnies undeſervedly caſt upon her by unſound Schiſmaticks, and I am afraid I may ſay ſelf-condemn'd Hereticks, ſince my Reaſon tells me they muſt needs perſiſt wilfully. But notwithſtanding all this, and what elſe may be ſaid on this Foot; I do nor pretend to an extraordinary Call, but a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>count my ſel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> under your Lordſhips Command, believing that as in the State, ſo in the Church their muſt be Government, and con<g ref="char:EOLhyphen"/>ſequently Governors, to whom we ought in point of Duty to ſubmit; ſo that if your Lordſhips ſhall com<g ref="char:EOLhyphen"/>mand my Silence, I ſhall (as in Duty bound) readily obey; and ſo on the contrary, if my Labour herein ſhall be thought uſeful, in oppoſing the Errors of this Domineering Sect, I ſhall, with all Faithfulneſs, conti<g ref="char:EOLhyphen"/>nue it, with due regard attending continually upon this very thing, having Reſpect to the neceſſary Circumſtan<g ref="char:EOLhyphen"/>ces ſuch a Work require in this depraved Age; and thereupon, leaſt this Book of mine now preſented ſhould not have met with that Reception, which I thank God it has, both your Lordſhips and the Clergy in gene<g ref="char:EOLhyphen"/>ral might ſafely have ſaid you knew nothing of it; to that end alſo I mentioned the Bounty receiv'd of the Gentry, the Juſtices and Proteſtant Diſſenters, to take off Occaſion from them that ſeek Occaſion; for as to the laſt they never gave me above 50 <hi>s.</hi> and the Gentry and Juſtices not 5 <hi>l.</hi> but my Support I thankfully acknowledge hath principally been the Bounty of your Lordſhips, the Univerſities, and particular Clergymen, for which I bleſs God on your Behalf, praying for your Health and Pro<g ref="char:EOLhyphen"/>ſperity every way.</p>
+            <p>And having been exerciſed herein, I humbly beg Leave to give your Lordſhips an Account of what I have done ſince <hi>December</hi> 1698. And as I have never let mortal Eye ſee the laſt Letter to your Lordſhips, ſo I hope I ſhall be ſo cautious in this, as will preſerve all in its due place; for I have a <hi>Printer</hi> I can confide in.</p>
+            <p>
+               <hi>Firſt,</hi> As to the Conference at <hi>Weſt-Dereham,</hi> the <hi>Qua<g ref="char:EOLhyphen"/>kers</hi> were the Aggreſſors, they being before that very troubleſome to the Clergy in that Country, by frequent Challenges. Up<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n which, both Mr. <hi>Park</hi> and Mr. <hi>Meri<g ref="char:EOLhyphen"/>ton</hi> wrote to me to come to their Aſſiſtance; we had a Meeting at my Houſe, where was alſo Mr. <hi>Archer,</hi> our Miniſter, and Mr. <hi>Eraſmas Warren,</hi> and my Advice was, that I might challenge them, and ſtand the Brunt, leaſt any thing ſhould happen that might reflect upon the Church; to which all agreed; I did ſo, and it was accepted: But on ſecond Thoughts the <hi>Quakers</hi> threw off me, and turned the Challenge upon the Clergy; yea, to any of their Cloth to give them a Charge, and to appoint Time and Place, and they'd give them a Publick Trial: They did ſo; but then their <hi>London</hi> Leaders fearing the Conſe<g ref="char:EOLhyphen"/>quence thereof, ſhuffled and evaded the ſame. Upon which a Petition was prepared, and ſent up; but not being thought meet to be preſented, they grew bold, and ſince then, have wrote divers Books; an Account of them that have come to my View are as follow, with the Numbers, which I think in Probability might be Printed.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>2000</cell>
+                     <cell>
+                        <hi>a.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>30000</cell>
+                     <cell>
+                        <hi>b.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>5000</cell>
+                     <cell>
+                        <hi>c.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1000</cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>4000</cell>
+                     <cell>
+                        <hi>e.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>5000</cell>
+                     <cell>
+                        <hi>f.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>5000</cell>
+                     <cell>
+                        <hi>g.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>52000</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p n="1">I. <hi>An Apology for the People called Quakers, and an Ap<g ref="char:EOLhyphen"/>peal to the Inhabitants of</hi> Norfolk <hi>and</hi> Suf<g ref="char:EOLhyphen"/>folk, <hi>&amp;c.</hi> I ſuppoſe in number 2000 <hi>a.</hi>
+            </p>
+            <p n="2">II. <hi>A Letter to the Clergy of the Dioceſe of</hi> Norfolk <hi>and</hi> Suffolk, under the Sham-Name of a Member of the Church of <hi>Eng<g ref="char:EOLhyphen"/>gland:</hi> Which was ſo univerſally ſpread in all the great Cities, Towns and Villages in <hi>England</hi> and <hi>Wales;</hi> not only in their ordinary Way of ſending two to each Meeting throughout their Territories; but in <hi>Norwich</hi> I was told they were carry'd in Wheel-Barrows by whole Reams, (for it was but one Sheet) for that one County, and left in many Places with their Agents; nay, even with common Tapſters and Hoſtlers, to be diſperſed <hi>Gratis;</hi> that I cannot think the Number Printed leſs than 30000 <hi>b.</hi>
+            </p>
+            <p n="3">III. <hi>A Defence of the People called Quakers; being a Reply to the Prieſts in</hi> Norfolk, <hi>&amp;c.</hi> Not fewer, I think, than 5000 <hi>c.</hi>
+            </p>
+            <p n="4">IV. <hi>An Apoſtate Conſcience expos'd;</hi> which alſo in ſome Places, tho' not about our Town, for there they'd not receive them. However I do ſuppoſe 1000 <hi>d.</hi>
+            </p>
+            <p n="5">V. <hi>A Defence of the Apology for the People called Qua<g ref="char:EOLhyphen"/>kers in</hi> Norfolk, <hi>&amp;c.</hi> I gueſs in number 4000 <hi>e.</hi>
+            </p>
+            <p n="6">VI. <hi>Truth and Innocency vindicated,</hi> &amp;c. I do think not ſo few in number as 5000 <hi>f.</hi>
+            </p>
+            <p n="7">VII. <hi>Anguis Flagillatus,</hi> &amp;c. which contain 548 Pages in a large <hi>Octavo,</hi> beſide the Preface. 500 of them well bound, were diſpatch'd away to Members of Par<g ref="char:EOLhyphen"/>liament to prepare them againſt this Seſſion; 500 of them in one Ship ſent to <hi>Penſilvania,</hi> beſides thoſe gi<g ref="char:EOLhyphen"/>ven to Judges, Lawyers, Juſtices, and indeed to Men of all Ranks; beſides their ordinary way, Two to each Meeting, ſelling them in Shops in <hi>London,</hi> and by their Agents in the Country; and furniſhing <hi>Ireland, Scot<g ref="char:EOLhyphen"/>land,</hi> and other Plantations. I cannot think they prin<g ref="char:EOLhyphen"/>ted leſs than 6 or 8000, but I will ſay but 5000. <hi>g.</hi> For they are a Rich and United Confederacy, and will com<g ref="char:EOLhyphen"/>paſs Sea and Land, to make a Proſelite.</p>
+            <p>And now, <hi>my Lords,</hi> as I have given but a probable Gueſs of their Number, which, as I account, is 52000, it may be leſs or more; and in regard I ſee no Anſwer to any of them come out, I thought it my Duty to re<g ref="char:EOLhyphen"/>turn ſome ſhort Anſwer to them; and to diſperſe them as far as I could; ſome to <hi>Oxford, Cambridge,</hi> and other Towns; many I gave away at home, and at <hi>Turners-Hall,</hi> to the Parliament, and where I judged it needful, and this by the Aſſiſtance I have had, and my Credit raiſed thereby, which is as followeth, <hi>viz.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>1500</cell>
+                     <cell>
+                        <hi>a.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>4000</cell>
+                     <cell>
+                        <hi>b.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>2000</cell>
+                     <cell>
+                        <hi>c.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>0500</cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>2000</cell>
+                     <cell>
+                        <hi>e.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1500</cell>
+                     <cell>
+                        <hi>f.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>11500</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p n="1">I. In anſwer to their firſt I wrote a Poſtſcript to the <hi>Norfolk</hi> Clergy's Book, <hi>A Brief Diſcovery,</hi> &amp;c. and at their Charge, number 1500 <hi>a.</hi>
+            </p>
+            <p n="2">II. A Broad Sheet, with Reaſons for their Examination, 4000 <hi>b.</hi>
+            </p>
+            <p n="3">III. In anſwer to their Third Book I wrote mine, intituled, <hi>Quakeriſm expos'd to P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>blick Cenſure,</hi> &amp;c. in number 2000 <hi>c.</hi>
+            </p>
+            <p n="4">IV. In anſwer to their Fourth Book I wrote mine, <hi>i. e.</hi> Jezebel <hi>Withſtood, and her Daugh<g ref="char:EOLhyphen"/>ter</hi> Anne Docwra <hi>Publickly Reproved,</hi> &amp;c. in number 0500 <hi>d.</hi> to diſperſe, beſides that half part of it at the end of <hi>Quakeriſm Expos'd,</hi> &amp;c.</p>
+            <p n="5">V. In anſwer to their Letter to the Clergy, which I was loth to undertake, knowing they could tar better do it themſelves; but whether it was that they do not think them conſiderable, or leaſt once engaging ſhould lay a Foundation for a chargeable Continuance; or whether they thought enough wrote already, I cannot tell; but at length, when I ſee it ſo univerſally ſpread, and read in their Meetings, I wrote a ſmall Tract againſt it, ſtiled <hi>The Miniſtry of the Church of</hi> England <hi>Vindicated and Diſtinguiſhed from that of Quakeriſm,</hi> &amp;c. In num<g ref="char:EOLhyphen"/>ber 2000 <hi>e.</hi>
+            </p>
+            <p n="6">VI. In Anſwer to their <hi>Defence of their Apology,</hi> by <hi>John Feild,</hi> and their <hi>Truth and Innocency,</hi> by <hi>George Whitehead,</hi> I wrote my <hi>Modest Defence,</hi> &amp;c. of which I preſented between 5 and 600 to the High Court of Parliament, <hi>&amp;c.</hi> in number 1500 <hi>f.</hi> which in all make 11500.</p>
+            <p n="7">VII. I have ſtill ſomething preparing for a Brief Anſwer to ſome material Falacies in their <hi>Anguis Flagil<g ref="char:EOLhyphen"/>latus,</hi> which I do intend, unleſs I meet with Advice to the contrary from my Superiors, to let go, as a Forerun<g ref="char:EOLhyphen"/>ner to a more compleat Anſwer, which I do underſtand is preparing: But in regard I know, that altho' the Reverend Author of <hi>The Snake in the Graſs</hi> can, and I believe will do it ſo well, as mine will ſcarce deſerve to be called more than the Shadow of it, yet, <hi>my Lords,</hi> it may be this Twelve Months er<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e his come out; and to have them Triumph till then, I cannot think it proper; and my Reaſon is, becauſe moſt of the
+<pb facs="tcp:102282:2"/> late Converts (of which there is Six of their Teachers, and I think above an Hundred of their Hearers) are ve<g ref="char:EOLhyphen"/>ry well diſpoſed to the Church of <hi>England,</hi> and I do think there is a great Work going on (I pray God proſper it) and that makes them rage, and thus beſtir themſelves; I have, ſince I came to <hi>London,</hi> had divers Letters from ſeveral Quakers in the Country, which are come off, giving me Thanks for my plain Dealing, ſome encouraging me never to leave till I have ſtript this young Harlot: But, my Lords, I know they are in their hot Zeal; and as your Lordſhips ſhall adviſe me by the Reverend Dr. <hi>Stanly,</hi> or Mr. <hi>Altham,</hi> or any other, or otherwiſe, as to your Wiſdom ſhall ſeem meet, ſo ſhall I proceed; and if nothing be ſaid to the contrary by any Body, I ſhall take it for granted, that I may go on.</p>
+            <p>And now, <hi>my Lords,</hi> I have but one thing more to mention, which is, That if my Endeavours and La<g ref="char:EOLhyphen"/>bours do find Acceptance at your Lordſhips Hands, that you would pleaſe to let me have a preſent Aſſi<g ref="char:EOLhyphen"/>ſtance to pay what I owe for Paper, Printing and Binding, which is near 40 <hi>l.</hi> And if what I have done be not ſo well done as you could wiſh, I ſtill beg your Favour to accept the Will for the Deed; or if it be but part of it, ſo as to give them Content; I deſire nothing but to live: And as your Lordſhips have been charitably inclined, and very Bountiful towards my Support, ſo do I hope I ſhall never miniſter Occaſion for the con<g ref="char:EOLhyphen"/>trary, who am, my Lords,</p>
+            <closer>
+               <signed>
+                  <hi>Your Lordſhips most Humble, and most Obedient Servant,</hi> Fran. Bugg.</signed>
+               <date>Feb. <hi>the</hi> 16th. 1699.</date>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
